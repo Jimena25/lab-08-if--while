@@ -4,7 +4,7 @@
 <script>
 
 
-var chicken = prompt (" This is lab 08... more JavaScript conditionals");
+var chicken = prompt(" This is lab 08... more JavaScript conditionals");
 //asd
 
 
